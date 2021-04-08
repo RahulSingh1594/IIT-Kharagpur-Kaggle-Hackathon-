@@ -1,2 +1,2 @@
-# IIT-Kharagpur-Kaggle-Hackathon-
+# mengary-revenue-prediction(IIT Kharagpur)-
 https://www.kaggle.com/c/mengary-revenue-prediction  Rank- 25
